@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>BDA Viewer</title>
+
+        <meta charset="utf-8">
+
+        <!-- CSS -->
+        <link href="netjsongraph/src/netjsongraph.css" rel="stylesheet">
+        <link href="netjsongraph/src/netjsongraph-theme.css" rel="stylesheet">
+
+        <style>
+            #graph{
+                position: fixed !important;
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="graph"></div>
+
+        <!-- JS -->
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script src="netjsongraph/src/netjsongraph.js"></script>
+
+        <script>d3.netJsonGraph("graph_parsed.json", { el: "#graph"});</script>
+    </body>
+</html>

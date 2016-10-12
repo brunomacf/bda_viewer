@@ -1,0 +1,14 @@
+{
+  "name": "bda_viewer",
+  "version": "1.0.0",
+  "description": "DBA Viewer",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
