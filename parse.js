@@ -12,8 +12,10 @@ var data        = require('./graph.json'),
     lodash.forOwn(data, function(value, key) {
         parsed.nodes.push({
             id: key,
-            gender: value[0],
-            sport: value[1]
+            properties: {
+                gender: value[0],
+                sport: value[1]
+            }
         });
 
         lodash.forEach(value[2]||[], function(target) {

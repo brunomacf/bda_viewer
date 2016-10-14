@@ -16,6 +16,38 @@
                 width: 100%;
                 height: 100%;
             }
+
+            .njg-node.lpeso { fill: #098759; }
+            .njg-node.boxe { fill: #0d7289; }
+            .njg-node.judo { fill: #b76f12; }
+            .njg-node.handebol { fill: #6b7503; }
+            .njg-node.lutao { fill: #ceb004; }
+            .njg-node.vpraia { fill: #180366; }
+            .njg-node.atletismo { fill: #023177; }
+            .njg-node.maquaticas { fill: #c64b03; }
+            .njg-node.canoagem { fill: #081e77; }
+            .njg-node.basquetebol { fill: #140266; }
+            .njg-node.ginastica { fill: #c312c9; }
+            .njg-node.tenis { fill: #07198e; }
+            .njg-node.vela { fill: #e50bde; }
+            .njg-node.voleibol { fill: #06a068; }
+            .njg-node.natacao { fill: #5704a0; }
+            .njg-node.tenism { fill: #a80a19; }
+            .njg-node.saltoo { fill: #12a008; }
+            .njg-node.futebol { fill: #058709; }
+            .njg-node.pentatlom { fill: #008e45; }
+            .njg-node.esgrima { fill: #21027f; }
+            .njg-node.taekwondo { fill: #576801; }
+            .njg-node.badminton { fill: #0ba581; }
+            .njg-node.golfe { fill: #ad1133; }
+            .njg-node.nados { fill: #962d04; }
+            .njg-node.ciclismobmx { fill: #c16101; }
+            .njg-node.ciclismoe { fill: #220870; }
+            .njg-node.poloa { fill: #0d2e89; }
+            .njg-node.maratonasa { fill: #840335; }
+            .njg-node.hipismo { fill: #48099b; }
+            .njg-node.tarco { fill: #008000; }
+
         </style>
     </head>
 
@@ -26,6 +58,13 @@
         <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
         <script src="netjsongraph/src/netjsongraph.js"></script>
 
-        <script>d3.netJsonGraph("graph_parsed.json", { el: "#graph"});</script>
+        <script>
+            d3.netJsonGraph("graph_parsed.json", {
+                el: "#graph",
+                circleRadius: 12,
+                nodeClassProperty: "sport",
+                defaultStyle: false
+            });
+        </script>
     </body>
 </html>

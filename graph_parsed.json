@@ -1,691 +1,965 @@
 {
   "type": "NetworkGraph",
-  "label": "Atletas",
+  "label": "Ninux Roma",
   "nodes": [
     {
       "id": "adrian_zielinski",
-      "gender": "h",
-      "sport": "lpeso"
+      "properties": {
+        "gender": "h",
+        "sport": "lpeso"
+      }
     },
     {
       "id": "alex_pombo",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "alexandra_nascimento",
-      "gender": "m",
-      "sport": "handebol"
+      "properties": {
+        "gender": "m",
+        "sport": "handebol"
+      }
     },
     {
       "id": "aline_silva",
-      "gender": "m",
-      "sport": "lutao"
+      "properties": {
+        "gender": "m",
+        "sport": "lutao"
+      }
     },
     {
       "id": "alison",
-      "gender": "h",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "h",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "alonso_edward",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "ana_marcela",
-      "gender": "m",
-      "sport": "maquaticas"
+      "properties": {
+        "gender": "m",
+        "sport": "maquaticas"
+      }
     },
     {
       "id": "ana_satila",
-      "gender": "m",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "m",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "anderson_varejao",
-      "gender": "h",
-      "sport": "basquetebol"
+      "properties": {
+        "gender": "h",
+        "sport": "basquetebol"
+      }
     },
     {
       "id": "andrade",
-      "gender": "h",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "h",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "andreia_bandeira",
-      "gender": "m",
-      "sport": "boxe"
+      "properties": {
+        "gender": "m",
+        "sport": "boxe"
+      }
     },
     {
       "id": "andy_murray",
-      "gender": "h",
-      "sport": "tenis"
+      "properties": {
+        "gender": "h",
+        "sport": "tenis"
+      }
     },
     {
       "id": "arthur_zaneti",
-      "gender": "h",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "h",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "asbel",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "bednarczuk",
-      "gender": "m",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "m",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "bily_besson",
-      "gender": "h",
-      "sport": "vela"
+      "properties": {
+        "gender": "h",
+        "sport": "vela"
+      }
     },
     {
       "id": "bruninho",
-      "gender": "h",
-      "sport": "voleibol"
+      "properties": {
+        "gender": "h",
+        "sport": "voleibol"
+      }
     },
     {
       "id": "bruno_fratus",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "bruno_schmidt",
-      "gender": "h",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "h",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "bruno_soares",
-      "gender": "h",
-      "sport": "tenis"
+      "properties": {
+        "gender": "h",
+        "sport": "tenis"
+      }
     },
     {
       "id": "caroline_kumahara",
-      "gender": "m",
-      "sport": "tenism"
+      "properties": {
+        "gender": "m",
+        "sport": "tenism"
+      }
     },
     {
       "id": "caster_semenya",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "cesar_castro",
-      "gender": "h",
-      "sport": "saltoo"
+      "properties": {
+        "gender": "h",
+        "sport": "saltoo"
+      }
     },
     {
       "id": "charles_chibana",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "dani_piedade",
-      "gender": "m",
-      "sport": "handebol"
+      "properties": {
+        "gender": "m",
+        "sport": "handebol"
+      }
     },
     {
       "id": "daniel_dias",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "daniele_hypolito",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "danuta_kozak",
-      "gender": "m",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "m",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "david_florence",
-      "gender": "h",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "h",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "davor_stefanek",
-      "gender": "h",
-      "sport": "lutao"
+      "properties": {
+        "gender": "h",
+        "sport": "lutao"
+      }
     },
     {
       "id": "diego_hypolito",
-      "gender": "h",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "h",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "dong_dong",
-      "gender": "h",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "h",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "douglas_costa",
-      "gender": "h",
-      "sport": "futebol"
+      "properties": {
+        "gender": "h",
+        "sport": "futebol"
+      }
     },
     {
       "id": "edson_silva",
-      "gender": "h",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "h",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "eleftherios_petrounias",
-      "gender": "h",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "h",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "eliud_kipchoge",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "erika_miranda",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "erlon_souza",
-      "gender": "h",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "h",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "evandro",
-      "gender": "h",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "h",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "fabiana_claudino",
-      "gender": "m",
-      "sport": "voleibol"
+      "properties": {
+        "gender": "m",
+        "sport": "voleibol"
+      }
     },
     {
       "id": "fabiana_murer",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "farah",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "felipe_franca",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "felipe_kitadai",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "felipe_nascimento",
-      "gender": "h",
-      "sport": "pentatlom"
+      "properties": {
+        "gender": "h",
+        "sport": "pentatlom"
+      }
     },
     {
       "id": "felipe_wu",
-      "gender": "h",
-      "sport": "tiroe"
+      "properties": {
+        "gender": "h",
+        "sport": "tiroe"
+      }
     },
     {
       "id": "fernanda",
-      "gender": "m",
-      "sport": "vela"
+      "properties": {
+        "gender": "m",
+        "sport": "vela"
+      }
     },
     {
       "id": "fernando",
-      "gender": "h",
-      "sport": "futebol"
+      "properties": {
+        "gender": "h",
+        "sport": "futebol"
+      }
     },
     {
       "id": "fernando_reis",
-      "gender": "h",
-      "sport": "lpeso"
+      "properties": {
+        "gender": "h",
+        "sport": "lpeso"
+      }
     },
     {
       "id": "flavia_saraiva",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "florent_manaudou",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "gabriel_jesus",
-      "gender": "h",
-      "sport": "futebol"
+      "properties": {
+        "gender": "h",
+        "sport": "futebol"
+      }
     },
     {
       "id": "gauthier_grumier",
-      "gender": "h",
-      "sport": "esgrima"
+      "properties": {
+        "gender": "h",
+        "sport": "esgrima"
+      }
     },
     {
       "id": "gideoni_monteiro",
-      "gender": "h",
-      "sport": "ciclismo"
+      "properties": {
+        "gender": "h",
+        "sport": "ciclismo"
+      }
     },
     {
       "id": "hansen",
-      "gender": "m",
-      "sport": "vela"
+      "properties": {
+        "gender": "m",
+        "sport": "vela"
+      }
     },
     {
       "id": "hugo_calderano",
-      "gender": "h",
-      "sport": "tenism"
+      "properties": {
+        "gender": "h",
+        "sport": "tenism"
+      }
     },
     {
       "id": "ingrid_oliveira",
-      "gender": "m",
-      "sport": "saltoo"
+      "properties": {
+        "gender": "m",
+        "sport": "saltoo"
+      }
     },
     {
       "id": "iris_sing",
-      "gender": "m",
-      "sport": "taekwondo"
+      "properties": {
+        "gender": "m",
+        "sport": "taekwondo"
+      }
     },
     {
       "id": "isaquias_queiroz",
-      "gender": "h",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "h",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "italo_duarte",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "jorge_zarif",
-      "gender": "h",
-      "sport": "vela"
+      "properties": {
+        "gender": "h",
+        "sport": "vela"
+      }
     },
     {
       "id": "juan_nogueira",
-      "gender": "h",
-      "sport": "boxe"
+      "properties": {
+        "gender": "h",
+        "sport": "boxe"
+      }
     },
     {
       "id": "julia_vasconcelos",
-      "gender": "m",
-      "sport": "taekwondo"
+      "properties": {
+        "gender": "m",
+        "sport": "taekwondo"
+      }
     },
     {
       "id": "justin_gatlin",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "kahena_kunze",
-      "gender": "m",
-      "sport": "vela"
+      "properties": {
+        "gender": "m",
+        "sport": "vela"
+      }
     },
     {
       "id": "katie_ledecky",
-      "gender": "m",
-      "sport": "natacao"
+      "properties": {
+        "gender": "m",
+        "sport": "natacao"
+      }
     },
     {
       "id": "katie_taylor",
-      "gender": "m",
-      "sport": "boxe"
+      "properties": {
+        "gender": "m",
+        "sport": "boxe"
+      }
     },
     {
       "id": "kayla_harrison",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "keila_costa",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "kerry_walsh",
-      "gender": "m",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "m",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "kleberson",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "kyle_snyder",
-      "gender": "h",
-      "sport": "lutao"
+      "properties": {
+        "gender": "h",
+        "sport": "lutao"
+      }
     },
     {
       "id": "larissa",
-      "gender": "m",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "m",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "le_clos",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "lebron_james",
-      "gender": "h",
-      "sport": "basquetebol"
+      "properties": {
+        "gender": "h",
+        "sport": "basquetebol"
+      }
     },
     {
       "id": "lin",
-      "gender": "h",
-      "sport": "tenism"
+      "properties": {
+        "gender": "h",
+        "sport": "tenism"
+      }
     },
     {
       "id": "lin_dan",
-      "gender": "h",
-      "sport": "badminton"
+      "properties": {
+        "gender": "h",
+        "sport": "badminton"
+      }
     },
     {
       "id": "lovelady",
-      "gender": "m",
-      "sport": "golfe"
+      "properties": {
+        "gender": "m",
+        "sport": "golfe"
+      }
     },
     {
       "id": "luisa",
-      "gender": "m",
-      "sport": "nados"
+      "properties": {
+        "gender": "m",
+        "sport": "nados"
+      }
     },
     {
       "id": "majlinda_kelmendi",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "marcelinho_huertas",
-      "gender": "h",
-      "sport": "basquetebol"
+      "properties": {
+        "gender": "h",
+        "sport": "basquetebol"
+      }
     },
     {
       "id": "marcelo_melo",
-      "gender": "h",
-      "sport": "tenis"
+      "properties": {
+        "gender": "h",
+        "sport": "tenis"
+      }
     },
     {
       "id": "mare",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "maria_portela",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "mariana_pajon",
-      "gender": "m",
-      "sport": "ciclismobmx"
+      "properties": {
+        "gender": "m",
+        "sport": "ciclismobmx"
+      }
     },
     {
       "id": "mariana_silva",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "marie_riou",
-      "gender": "m",
-      "sport": "vela"
+      "properties": {
+        "gender": "m",
+        "sport": "vela"
+      }
     },
     {
       "id": "marta",
-      "gender": "m",
-      "sport": "futebol"
+      "properties": {
+        "gender": "m",
+        "sport": "futebol"
+      }
     },
     {
       "id": "martina_hingis",
-      "gender": "m",
-      "sport": "tenis"
+      "properties": {
+        "gender": "m",
+        "sport": "tenis"
+      }
     },
     {
       "id": "martine_grael",
-      "gender": "m",
-      "sport": "vela"
+      "properties": {
+        "gender": "m",
+        "sport": "vela"
+      }
     },
     {
       "id": "mayra_aguiar",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "michael_phelps",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "michel_borges",
-      "gender": "h",
-      "sport": "boxe"
+      "properties": {
+        "gender": "h",
+        "sport": "boxe"
+      }
     },
     {
       "id": "mikel_hansen",
-      "gender": "h",
-      "sport": "handebol"
+      "properties": {
+        "gender": "h",
+        "sport": "handebol"
+      }
     },
     {
       "id": "missy_franklin",
-      "gender": "m",
-      "sport": "natacao"
+      "properties": {
+        "gender": "m",
+        "sport": "natacao"
+      }
     },
     {
       "id": "nairo_quintana",
-      "gender": "h",
-      "sport": "ciclismoe"
+      "properties": {
+        "gender": "h",
+        "sport": "ciclismoe"
+      }
     },
     {
       "id": "natalia_gaudio",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "neymar",
-      "gender": "h",
-      "sport": "futebol"
+      "properties": {
+        "gender": "h",
+        "sport": "futebol"
+      }
     },
     {
       "id": "nicola_adams",
-      "gender": "m",
-      "sport": "boxe"
+      "properties": {
+        "gender": "m",
+        "sport": "boxe"
+      }
     },
     {
       "id": "novak_djokovic",
-      "gender": "h",
-      "sport": "tenis"
+      "properties": {
+        "gender": "h",
+        "sport": "tenis"
+      }
     },
     {
       "id": "pedro_solberg",
-      "gender": "h",
-      "sport": "vpraia"
+      "properties": {
+        "gender": "h",
+        "sport": "vpraia"
+      }
     },
     {
       "id": "perrone",
-      "gender": "h",
-      "sport": "poloa"
+      "properties": {
+        "gender": "h",
+        "sport": "poloa"
+      }
     },
     {
       "id": "poliana_okimoto",
-      "gender": "m",
-      "sport": "maratonasa"
+      "properties": {
+        "gender": "m",
+        "sport": "maratonasa"
+      }
     },
     {
       "id": "rafael_buzacarini",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "rafael_silva",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "rafaela_silva",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "rebeca_andrade",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "renzo_agresta",
-      "gender": "h",
-      "sport": "esgrima"
+      "properties": {
+        "gender": "h",
+        "sport": "esgrima"
+      }
     },
     {
       "id": "robson_conceicao",
-      "gender": "h",
-      "sport": "boxe"
+      "properties": {
+        "gender": "h",
+        "sport": "boxe"
+      }
     },
     {
       "id": "rodrigo_pessoa",
-      "gender": "h",
-      "sport": "hipismo"
+      "properties": {
+        "gender": "h",
+        "sport": "hipismo"
+      }
     },
     {
       "id": "rosangela_santos",
-      "gender": "m",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "m",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "ruben_limardo",
-      "gender": "h",
-      "sport": "esgrima"
+      "properties": {
+        "gender": "h",
+        "sport": "esgrima"
+      }
     },
     {
       "id": "ruy_fonseca",
-      "gender": "h",
-      "sport": "hipismo"
+      "properties": {
+        "gender": "h",
+        "sport": "hipismo"
+      }
     },
     {
       "id": "ryan_lochte",
-      "gender": "h",
-      "sport": "natacao"
+      "properties": {
+        "gender": "h",
+        "sport": "natacao"
+      }
     },
     {
       "id": "saori_yoshida",
-      "gender": "m",
-      "sport": "lutao"
+      "properties": {
+        "gender": "m",
+        "sport": "lutao"
+      }
     },
     {
       "id": "sarah_menezes",
-      "gender": "m",
-      "sport": "judo"
+      "properties": {
+        "gender": "m",
+        "sport": "judo"
+      }
     },
     {
       "id": "sarah_nikitin",
-      "gender": "m",
-      "sport": "tarco"
+      "properties": {
+        "gender": "m",
+        "sport": "tarco"
+      }
     },
     {
       "id": "sclebin",
-      "gender": "h",
-      "sport": "triatlo"
+      "properties": {
+        "gender": "h",
+        "sport": "triatlo"
+      }
     },
     {
       "id": "sebastian_brendel",
-      "gender": "h",
-      "sport": "canoagem"
+      "properties": {
+        "gender": "h",
+        "sport": "canoagem"
+      }
     },
     {
       "id": "serena_wiliams",
-      "gender": "m",
-      "sport": "tenis"
+      "properties": {
+        "gender": "m",
+        "sport": "tenis"
+      }
     },
     {
       "id": "serginho",
-      "gender": "h",
-      "sport": "voleibol"
+      "properties": {
+        "gender": "h",
+        "sport": "voleibol"
+      }
     },
     {
       "id": "simone_biles",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "stan_wawrinka",
-      "gender": "h",
-      "sport": "tenis"
+      "properties": {
+        "gender": "h",
+        "sport": "tenis"
+      }
     },
     {
       "id": "teliana_pereira",
-      "gender": "m",
-      "sport": "tenis"
+      "properties": {
+        "gender": "m",
+        "sport": "tenis"
+      }
     },
     {
       "id": "thaisa",
-      "gender": "m",
-      "sport": "voleibol"
+      "properties": {
+        "gender": "m",
+        "sport": "voleibol"
+      }
     },
     {
       "id": "thiago_braz",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "tiago_camilo",
-      "gender": "h",
-      "sport": "judo"
+      "properties": {
+        "gender": "h",
+        "sport": "judo"
+      }
     },
     {
       "id": "tom_daley",
-      "gender": "h",
-      "sport": "saltoo"
+      "properties": {
+        "gender": "h",
+        "sport": "saltoo"
+      }
     },
     {
       "id": "tosaka",
-      "gender": "m",
-      "sport": "lutao"
+      "properties": {
+        "gender": "m",
+        "sport": "lutao"
+      }
     },
     {
       "id": "usain_bolt",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "van_niekerk",
-      "gender": "h",
-      "sport": "atletismo"
+      "properties": {
+        "gender": "h",
+        "sport": "atletismo"
+      }
     },
     {
       "id": "venilton_teixeira",
-      "gender": "h",
-      "sport": "taekwondo"
+      "properties": {
+        "gender": "h",
+        "sport": "taekwondo"
+      }
     },
     {
       "id": "yana_kudryavtseva",
-      "gender": "m",
-      "sport": "ginastica"
+      "properties": {
+        "gender": "m",
+        "sport": "ginastica"
+      }
     },
     {
       "id": "yane_marques",
-      "gender": "m",
-      "sport": "pentatlom"
+      "properties": {
+        "gender": "m",
+        "sport": "pentatlom"
+      }
     },
     {
       "id": "ygor_coelho",
-      "gender": "h",
-      "sport": "badminton"
+      "properties": {
+        "gender": "h",
+        "sport": "badminton"
+      }
     },
     {
       "id": "yuki",
-      "gender": "h",
-      "sport": "esgrima"
+      "properties": {
+        "gender": "h",
+        "sport": "esgrima"
+      }
     },
     {
       "id": "zahra_nemati",
-      "gender": "m",
-      "sport": "tarco"
+      "properties": {
+        "gender": "m",
+        "sport": "tarco"
+      }
     }
   ],
   "links": [
