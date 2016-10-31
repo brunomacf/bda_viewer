@@ -1,4 +1,4 @@
-var data        = require('./graph.json'),
+var data        = require('./graph2.json'),
     lodash      = require('lodash');
 
 (function() {
@@ -18,12 +18,29 @@ var data        = require('./graph.json'),
             }
         });
 
-        lodash.forEach(value[2]||[], function(target) {
-            parsed.links.push({
-                source: key,
-                target: target
+        if(lodash.isArray(value[2])) {
+            lodash.forEach(value[2], function(target) {
+                parsed.links.push({
+                    source: key,
+                    target: target
+                });
             });
-        });
+        }
+        else if(lodash.isObject(value[2])) {
+            lodash.forOwn(value[2], function(arr, target) {
+                var words = lodash.map(arr, function(item) {
+                    return item[0];
+                });
+
+                parsed.links.push({
+                    source: key,
+                    target: target,
+                    properties: {
+                        words: words
+                    }
+                });
+            });
+        }
     });
 
     console.log(JSON.stringify(parsed, null, 2));
